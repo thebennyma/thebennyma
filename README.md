@@ -12,7 +12,7 @@
 
 ```javascript
 const thai = {
-  pronouns: "he" | "her",
+  pronouns: "he",
   code: [Javascript, HTML, CSS, Java],
   tools: [Node, Vue],
   architecture: ["NaN"],
